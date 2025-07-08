@@ -15,10 +15,7 @@ Nucleotide-Sequence-Aligner is a MATLAB-based tool designed for simulating DNA s
 
 ## Getting Started
 
-1. Clone this repository:
-   ```bash
-   git clone https://github.com/AndresCandido/Nucleotide-Sequence-Aligner.git
-   ```
+1. Clone this repository.
 2. Open MATLAB and add the project directory to your path.
 3. Run the main script or functions as described in the code documentation.
 
